@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android_Course</string>
+    <string-array name="countries_array">
+        <item>Afganistan</item>
+        <item>Argentina</item>
+        <item>Belice</item>
+        <item>Fracia</item>
+        <item>Italia</item>
+        <item>México</item>
+        <item>Noruega</item>
+        <item>Portugal</item>
+        <item>Uruguay</item>
+        <item>Zambia</item>
+    </string-array>
+</resources>
